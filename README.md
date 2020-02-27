@@ -1,6 +1,6 @@
 # Baltimore Salary -
 
-Employers often make mistake of overpaying or underpaying their employees. This regression model checks if there is any correlation between the difference of Annual and Gross salaries from last year with the present year.
+Employers often make mistake of overpaying or underpaying their employees. This project uses Baltimore City employee salary data to check if the Baltimore government is making that mistake or not. The regression model checks if there is any correlation between the difference of Annual and Gross salaries from last year with the present year.
 The correlation between the two can help us predict amount of overpayment or underpayment in next year. 
 
 ![](https://github.com/yash0602/Linear-Regression-/blob/master/p.png)
