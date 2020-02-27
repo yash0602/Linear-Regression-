@@ -26,7 +26,7 @@ The R-Squared value for the fitted model is 0.7 which makes it a good model. It 
 7. Minimum distance was calculated using MIN() function 
 8. I used Excel Solver to come up with optimal minimum value for the distance 
 
-#Note 
+# Note 
 1. Clustering gives different values for every iteration 
 2. Data sets of newly joined employees (2019) was removed as previous years entries were blank
 
