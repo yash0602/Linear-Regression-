@@ -22,6 +22,13 @@ The R-Squared value for the fitted model is 0.7 which makes it a good model. It 
 3. Cleaned the data to remove all the NAs using filters 
 4. Took the difference between Annual and Gross salaries for every year
 5. Using Data Analysis, fitted a Linear Regression Model and analysed statistical factors like R Square value, F significance, Standard error, and P value.
+6. For clustering I calculated the Mean, Variance, and the Z value.
+7. Minimum distance was calculated using MIN() function 
+8. I used Excel Solver to come up with optimal minimum value for the distance 
+
+#Note 
+1. Clustering gives different values for every iteration 
+2. Data sets of newly joined employees (2019) was removed as previous years entries were blank
 
 # Source 
 
